@@ -49,4 +49,4 @@ Inside each folder, you will find:
 - Lessons learned from mistakes
 - Key takeaways that actually matter in the real world
 
-If you are also learning, feel free to follow along.
+If you are also learning or viewing my portfolio, feel free to follow along.
