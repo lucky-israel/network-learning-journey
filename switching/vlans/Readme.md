@@ -3,7 +3,7 @@ PC-SW2-SW1-Main access layer switch-l2-l3(gateway)
 
 The PC connected to SW2 in VLAN 159 could not ping the default gateway (10.100.159.1) hosted on the L3 switch SVI. The network consisted of multiple access, distribution, and core switches carrying VLAN 159.
 
-for network aspect :
+What was wrong for network aspect :
 
 VLAN 159 is not consistently allowed on trunks
 
