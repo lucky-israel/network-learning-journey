@@ -28,3 +28,7 @@ This lab reinforced that most enterprise network failures are caused by Layer 2 
 
 
  ![Image Alt](https://github.com/lucky-israel/network-learning-journey/blob/main/Vlan%20config.png)
+
+
+
+![Image Alt](https://github.com/lucky-israel/network-learning-journey/blob/main/PC%20PING.png) 
