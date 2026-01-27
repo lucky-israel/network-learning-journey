@@ -7,3 +7,5 @@ A network engineer sees packets as units of data to be forwarded. A security eng
 * Is this ARP reply from the real owner of the IP?
 
 * Should this port/VLAN even be sending this type of traffic?
+
+projects : Implement a defense. On your router or switch, create an ACL that blocks ICMP from unauthorized subnets.
