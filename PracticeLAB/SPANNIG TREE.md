@@ -1,7 +1,7 @@
 Practicing Spanning tree and Root Guard
 
 
-Spanning tree lab simulatino between service provider and customer - 
+Spanning tree lab simulation between service provider and customer - 
 
 Using root guard to prevent topology change and superior BPDUS from Service provider
 
@@ -42,4 +42,5 @@ Implementing Root Guard on Sw 1 and SW2 (int f0/3) to prevent such issue - port 
 Note : To Resolved the port blocking issue tell Customers to increase their switch priority .
 
 <img width="1919" height="700" alt="image" src="https://github.com/user-attachments/assets/ee6bc246-06ba-4b0c-8862-f1c74a5ec113" />
+
 
