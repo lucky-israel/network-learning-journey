@@ -1,4 +1,4 @@
-﻿# Basic OSPF Lab
+﻿# OSPF Lab
 
 source : jeremy's It lab "https://youtu.be/pvuaoJ9YzoI"
 1. Configure the appropriate hostnames and IP addresses on each device.  Enable router interfaces.
