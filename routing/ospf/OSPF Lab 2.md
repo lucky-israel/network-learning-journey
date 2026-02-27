@@ -1,9 +1,10 @@
 In this section i configured OPSF lAB ,with prior similar environment but different configuration .
 
-i use command sample:
-R1#config t
-R1(config)#int g0/0
-R1(config-if)#ip ospf 1 area 0
+
+I use command sample:
+R1#config t,
+R1(config)#int g0/0,
+R1(config-if)#ip ospf 1 area 0, Works like an ACL—matches interfaces based on IP address and wildcard mask
 
 
 I encountered some issue with PC can't ping any R in a R1-R2-R4-SW-PC or R1-R3-R4-SW-PC topology,
