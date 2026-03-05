@@ -22,7 +22,7 @@ This repository exists to:
 - Build a repeatable habit of technical documentation
 - Create a public record of my growth in networking and security
 
-Think of this as my working notebook, which may serve as ga uide for others to follow.
+Think of this as my working notebook, which may serve as guide for others to follow.
 
 ## Current Focus Areas
 
